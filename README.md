@@ -1,6 +1,8 @@
 System Requirements
 
-rdkit-pypi==2021.9.4
+Python 3.8.10
+
+RDKit 2022.09.5
 
 torch: 1.11.0+cu113
 
