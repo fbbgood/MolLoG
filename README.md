@@ -14,7 +14,7 @@ scikit-learn: 1.1.3
 
 pandas: 1.5.3
 
-prettytable: 3.5.0
+
 
 Datasets
 
@@ -25,6 +25,8 @@ BindingDB can be obtained at https://www.bindingdb.org/bind/index.jsp;
 BioSNAP and initial version DAVIS datasets can be obtained at https://github.com/kexinhuang12345/MolTrans;
 
 Human source is at https://github.com/lifanchen-simm/transformerCPI.
+
+
 
 Run MolLoG on Our Data to Reproduce Results
 
