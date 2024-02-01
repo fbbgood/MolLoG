@@ -12,7 +12,7 @@ numpy: 1.23.5
 
 scikit-learn: 1.1.3
 
-pandas: 1.5.3
+pandas: 1.5.3  
 
 
 
