@@ -34,13 +34,19 @@ Run MolLoG on Our Data to Reproduce Results
 
 python main.py --cfg "configs/MolLoG.yaml" --data "bindingdb" --split "random"
 
+python main.py --cfg "configs/MolLoG.yaml" --data "bindingdb" --split "cold"
+
 python main.py --cfg "configs/MolLoG.yaml" --data "biosnap" --split "random"
+
+python main.py --cfg "configs/MolLoG.yaml" --data "biosnap" --split "cold"
 
 python main.py --cfg "configs/MolLoG.yaml" --data "human" --split "cold"
 
 python main.py --cfg "configs/MolLoG.yaml" --data "human" --split "random"
 
 python main.py --cfg "configs/MolLoG.yaml" --data "DAVIS" --split "random"
+
+python main.py --cfg "configs/MolLoG.yaml" --data "DAVIS" --split "cold"
 
 Interpretable
 
